@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.pixelexperience.settings.device;
+package org.lineageos.settings.device;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
@@ -23,7 +23,7 @@ import android.content.SharedPreferences;
 import android.os.SystemProperties;
 import android.preference.PreferenceManager;
 
-import org.pixelexperience.settings.device.R;
+import org.lineageos.settings.device.R;
 
 public class BootCompletedReceiver extends BroadcastReceiver {
     @Override

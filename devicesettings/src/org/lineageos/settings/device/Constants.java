@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.pixelexperience.settings.device;
+package org.lineageos.settings.device;
 
 public class Constants {
     public static final String GRIP_REJ_KEY = "touchscreen_grip_rej";

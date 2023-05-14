@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.pixelexperience.settings.device;
+package org.lineageos.settings.device;
 
 import android.os.Bundle;
 
